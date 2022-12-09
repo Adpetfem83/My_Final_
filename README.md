@@ -193,4 +193,4 @@ Future iterations of this analysis could seek the use of:
 [Kaggle companies Dataset ](https://www.kaggle.com/datasets/peopledatalabssf/free-7-million-company-dataset)
 
 - Tableau Dashboard Link:
-[Tableau Dashboard Link]()
+[Tableau Dashboard Link]() 
